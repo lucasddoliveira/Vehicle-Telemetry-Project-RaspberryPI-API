@@ -16,3 +16,16 @@ For any inquiries or suggestions, please feel free to contact via email: lucasdd
 Este trabalho foi melhor descrito em um artigo publicado no Congresso Brasileiro de Automação (CBA) 2022: https://www.sba.org.br/cba2022/wp-content/uploads/artigos_cba2022/paper_5591.pdf
 
 Para quaisquer perguntas ou sugestões, sinta-se à vontade para entrar em contato através do e-mail: lucasddoliveira1@gmail.com
+
+# UFPBaja Vehicle
+
+![baja](https://github.com/lucasddoliveira/Vehicle-Telemetry-Project-Mobile-Application/assets/85253035/0cb8929f-4ef7-4fe9-ae4d-72ff06cae14d)
+
+# Mobile Application
+
+![temporeal](https://github.com/lucasddoliveira/Vehicle-Telemetry-Project-Mobile-Application/assets/85253035/7be4469d-9540-4080-9481-f5f7e311fd79)![grafico](https://github.com/lucasddoliveira/Vehicle-Telemetry-Project-Mobile-Application/assets/85253035/edcb32b7-5417-4fb5-a647-8cf845fc03b5)
+
+# Communication Results
+
+![image](https://github.com/lucasddoliveira/Vehicle-Telemetry-Project-Mobile-Application/assets/85253035/f2d33353-54b4-4664-b45b-e839f01c9a0a)
+![image](https://github.com/lucasddoliveira/Vehicle-Telemetry-Project-Mobile-Application/assets/85253035/da9b999e-2d81-4372-88dd-039e50304fe6)

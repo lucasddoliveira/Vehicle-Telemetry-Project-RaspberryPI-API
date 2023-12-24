@@ -7,9 +7,7 @@ This work was better described in an article published at the Brazilian Congress
 
 For any inquiries or suggestions, please feel free to contact via email: lucasddoliveira1@gmail.com
 
-///////////////////////////////////////////////
-
-Projeto de Telemetria Veicular para a equipe UFPBaja - API
+# Projeto de Telemetria Veicular para a equipe UFPBaja - API
 
 1 - API hospedada em Raspberry PI desenvolvida em JavaScript para comunicação serial com um módulo LoraMesh. Objetivo: recebimento, processamento e envio de dados para aplicativo.
 

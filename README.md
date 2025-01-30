@@ -23,7 +23,7 @@ Para quaisquer perguntas ou sugestões, sinta-se à vontade para entrar em conta
 
 # Mobile Application
 
-![temporeal](https://github.com/lucasddoliveira/Vehicle-Telemetry-Project-Mobile-Application/assets/85253035/7be4469d-9540-4080-9481-f5f7e311fd79)![grafico](https://github.com/lucasddoliveira/Vehicle-Telemetry-Project-Mobile-Application/assets/85253035/edcb32b7-5417-4fb5-a647-8cf845fc03b5)
+![image](https://github.com/user-attachments/assets/ea069ee4-5467-40ea-be97-d81add46f06e)
 
 # Communication Results
 
